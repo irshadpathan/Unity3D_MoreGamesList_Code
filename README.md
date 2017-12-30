@@ -1,4 +1,4 @@
-# More Games Listing Dyamic Script
+# More Games Listing Dynamic Script
 
 
 Drag and Drop Prefab and Upload json File any server
