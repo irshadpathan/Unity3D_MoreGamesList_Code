@@ -2,6 +2,8 @@
 
 Drag and Drop Prefab and Upload json File any server
 
+Support Any Platform.
+
 UI Preview :
 
 <a><img src="https://image.ibb.co/g1b2cG/Preview.png" alt="Example_1" border="0"></a>
